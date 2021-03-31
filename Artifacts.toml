@@ -1,0 +1,154 @@
+[[Qt5Tools]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b6a7227cf9b457a6c2934703fdd5fbaff254b27"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "bdfac9d0fa556c7979a35487b4a8fcd238851744e46563be2e793c3ef8791b1c"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt5Tools]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9335d83797727562543d68f51e196693c9134bbf"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "b4431501c9d4b13292a9eba8950050eb9c3da647881a5a3233f2d95f0c5ebecf"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt5Tools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "98b55620becd8cd296b9b8a44640a5eea202d2f6"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "654edb92c60daa339f244d26d4f671105da3db5ee921466dbdecb337b9f51789"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt5Tools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "592eee31e4ea7dff314c6fe699f73cf586d02d9f"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "1caaccae405156379559829be9ea3056116c1d051fec0902fb0cbca8b2bbf275"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt5Tools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69117d43c8bc8c240b192f691a1c6463c6550068"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "393f0434de6c1cd70d062611331192050882924be8c7ab05608db4812e12d74c"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt5Tools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "12e9f105eb426bacf6937b2afa766dab94144b40"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "49ef6e89b97c19c7d491e9ee37344cabcf969b268e693c565776e52299c70d71"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt5Tools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "51d0b9baffbde44405f2b472b85d8546afd87a24"
+os = "windows"
+
+    [[Qt5Tools.download]]
+    sha256 = "d440e486a03dc957a7aec1aca3596d8ded75d44803d5c5fd97ff4cb201e28499"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Qt5Tools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7bca17be07e30f451eeff1e4e0df520d577fc94"
+os = "windows"
+
+    [[Qt5Tools.download]]
+    sha256 = "c50a6bf2ef48ab88f780475e53df2d07939627ef0f0505aa3242e4a8a5a8e174"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt5Tools]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "52a4ab62e81f24abb694be05fb8026cd31fb26dd"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "b84aa3b28caef9df9c7084cad49438571ab57598615794d3d4f096439aeb5ec4"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt5Tools]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed7f8ec3885498216c7f899469446424541a9930"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "c06db9ee560b8ab64c2a29a2f4fa52664bc10ca1a4c75570e9be97d7ddc5b115"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt5Tools]]
+arch = "x86_64"
+git-tree-sha1 = "1691ad442f9a6ed0bec82e525c25ff9d733bdb63"
+os = "macos"
+
+    [[Qt5Tools.download]]
+    sha256 = "956a67f62a546d46b82e18493bb3d8862da1eb3a37e14160ab3b23b8849e46d7"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.x86_64-apple-darwin.tar.gz"
+[[Qt5Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c88d5fd9a1d9175cbecab1c3a11c63b159847bd0"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "dae1616a41d521c7f6d1e786996d2421f3375c3813126196696416b398645255"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt5Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9d75270384f69caecc7fa944065898da5ff53ad"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Tools.download]]
+    sha256 = "19d2b556897012f0617f77f7b63b1b9c4739c9ef0cb4e465fb0e9e0a9d45f618"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt5Tools]]
+arch = "x86_64"
+git-tree-sha1 = "e94bf4833e537cb02c19d706bbe544ae1de26d8b"
+os = "freebsd"
+
+    [[Qt5Tools.download]]
+    sha256 = "481453361249e327eb4bb649e137b2abf776c5cfaa01941980d0469a54f8424e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.x86_64-unknown-freebsd.tar.gz"
+[[Qt5Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c08bb4d81f1f810684d156294bedbe31c9d51488"
+os = "windows"
+
+    [[Qt5Tools.download]]
+    sha256 = "3066ac8e84f4e782fb051174680c010215f7367512693ad345c87d0d120ff1db"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Qt5Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "79d266a9172099ae9cf99a790fbe3c5f4e76ea1e"
+os = "windows"
+
+    [[Qt5Tools.download]]
+    sha256 = "0c48a491df256a80002c589cc982fdcfe71404f60535c5e7b236db2b2c42d7c1"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5Tools_jll.jl/releases/download/Qt5Tools-v5.15.2+0/Qt5Tools.v5.15.2.x86_64-w64-mingw32-cxx11.tar.gz"
